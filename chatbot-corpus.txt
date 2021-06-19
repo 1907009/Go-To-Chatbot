@@ -1,0 +1,35 @@
+HotpotQA is a set of question response data that includes natural multi-skip questions, with a strong emphasis on supporting facts to allow for more explicit question answering systems. The data set consists of 113,000 Wikipedia-based QA pairs.
+
+NarrativeQA is a data set constructed to encourage deeper understanding of language. This dataset involves reasoning about reading whole books or movie scripts. This dataset contains approximately 45,000 pairs of free text question-and-answer pairs. There are two modes of understanding this dataset: (1) reading comprehension on summaries and (2) reading comprehension on whole books/scripts.
+
+Natural Questions (NQ), a new large-scale corpus for training and evaluating open-ended question answering systems, and the first to replicate the end-to-end process in which people find answers to questions. NQ is a large corpus, consisting of 300,000 questions of natural origin, as well as human-annotated answers from Wikipedia pages, for use in training in quality assurance systems. In addition, we have included 16,000 examples where the answers (to the same questions) are provided by 5 different annotators, useful for evaluating the performance of the QA systems learned.
+
+The objective of the NewsQA dataset is to help the research community build algorithms capable of answering questions that require human-scale understanding and reasoning skills. Based on CNN articles from the DeepMind Q&A database, we have prepared a Reading Comprehension dataset of 120,000 pairs of questions and answers.
+
+OpenBookQA, inspired by open-book exams to assess human understanding of a subject. The open book that accompanies our questions is a set of 1329 elementary level scientific facts. Approximately 6,000 questions focus on understanding these facts and applying them to new situations.
+
+QASC is a question-and-answer data set that focuses on sentence composition. It consists of 9,980 8-channel multiple-choice questions on elementary school science (8,134 train, 926 dev, 920 test), and is accompanied by a corpus of 17M sentences.
+
+QuAC, a data set for answering questions in context that contains 14K information-seeking QI dialogues (100K questions in total). Question Answering in Context is a dataset for modeling, understanding, and participating in information-seeking dialogues. The data instances consist of an interactive dialogue between two crowd workers: (1) a student who asks a sequence of free questions to learn as much as possible about a hidden Wikipedia text, and (2) a teacher who answers the questions by providing short excerpts (staves) of the text. QuAC introduces challenges not found in existing machine comprehension data sets: its questions are often more open-ended, unanswered, or only meaningful in the context of dialogue.
+
+Question-and-answer dataset: This corpus includes Wikipedia articles, factual questions manually generated from them, and answers to these manually generated questions for use in academic research.
+
+A set of Quora questions to determine whether pairs of question texts actually correspond to semantically equivalent queries. More than 400,000 lines of potential questions duplicate question pairs.
+
+RecipeQA is a set of data for multimodal understanding of recipes. It consists of more than 36,000 pairs of automatically generated questions and answers from approximately 20,000 unique recipes with step-by-step instructions and images. Each RecipeQA question involves multiple modalities such as titles, descriptions or images, and working towards an answer requires (i) a common understanding of images and text, (ii) capturing the temporal flow of events, and (iii) understanding procedural knowledge.
+
+The Stanford Question Answering Dataset (SQuAD) is a set of reading comprehension data consisting of questions asked by social workers on a set of Wikipedia articles, where the answer to each question is a segment of text, or span, of the corresponding reading passage. With more than 100,000 question-answer pairs on more than 500 articles, SQuAD is significantly larger than previous reading comprehension datasets. SQuAD2.0 combines the 100,000 questions from SQuAD1.1 with more than 50,000 new unanswered questions written in a contradictory manner by crowd workers to look like answered questions.
+
+TREC QA Collection: TREC has had a track record of answering questions since 1999. In each track, the task was defined so that systems had to retrieve small fragments of text containing an answer to open-domain and closed-domain questions.
+
+TyDi QA is a set of question response data covering 11 typologically diverse languages with 204K question-answer pairs. The languages in TyDi QA are diverse in terms of their typology — the set of linguistic characteristics that each language expresses — so we expect that the models performing on this set will be generalizable to a large number of languages around the world. It contains linguistic phenomena that would not be found in English-only corpora.
+
+The WikiQA corpus: A set of publicly available pairs of questions and phrases collected and annotated for research on the answer to open-domain questions. In order to reflect the true information needs of general users, they used Bing query logs as a source of questions. Each question is linked to a Wikipedia page that potentially contains the answer.
+
+Yahoo Language Data: This page presents manually maintained QA datasets from Yahoo responses.
+
+A chatbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent.[1] Designed to convincingly simulate the way a human would behave as a conversational partner, chatbot systems typically require continuous tuning and testing, and many in production remain unable to adequately converse or pass the industry standard Turing test.[2] The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot) in 1994 to describe these conversational programs.
+
+Chatbots are used in dialog systems for various purposes including customer service, request routing, or information gathering. While some chatbot applications use extensive word-classification processes, natural language processors, and sophisticated AI, others simply scan for general keywords and generate responses using common phrases obtained from an associated library or database.
+
+Most chatbots are accessed on-line via website popups or through virtual assistants. They can be classified into usage categories that include: commerce (e-commerce via chat), education, entertainment, finance, health, news, and productivity.
